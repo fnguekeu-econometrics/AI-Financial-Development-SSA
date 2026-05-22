@@ -13,7 +13,7 @@ Key econometric challenges solved in this project:
 
 ## 💻 Tech Stack & Stata Packages
 - **Software:** Stata 17 / 18
-- **Core Packages:** `csdid`, `drdid`, `reghdfe`
+- **Core Packages:** `psmatch2`, `drdid`, `psgraph`
 - **Data Sources:** World Bank Global Findex, IMF Financial Development Index, International Telecommunication Union (ITU).
 
 ## 📊 Key Insights & Outputs
